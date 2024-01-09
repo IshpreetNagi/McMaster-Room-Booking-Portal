@@ -4,10 +4,10 @@ A front-end-only interface developed to integrate the available rooms spread bet
 This interface can be viewed via its virtual deployment in the form of this [website link](https://room-booking-system-owengretzinger.vercel.app/). To quickly see most of the features and functionality and in case there are any issues with the website, we also created a [demo video](https://drive.google.com/file/d/1BEj6cD62W56Dv2XgZz4rUp1u2Ii62R5r/view).
 
 Home Page:
-![Home Page Image](public\images\screen-images\screen1.png)
+![Home Page Image](@\public\images\screen-images\screen1.png)
 
 Date and Time Page:
-![Date and Time Page Image](public\images\screen-images\screen2.png)
+![Date and Time Page Image](@\public\images\screen-images\screen2.png)
 
 Filter Selection Page:
 ![Filter Selection Page Image](public\images\screen-images\screen3.png)
