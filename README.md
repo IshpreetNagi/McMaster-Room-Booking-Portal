@@ -1,5 +1,5 @@
 # McMaster-Room-Booking-Portal
-A front-end-only interface developed to integrate the available rooms spread between 5 buildings across McMaster University in one central portal. Created in collaboration with 5 other developers as our submission for 4HC3 Human-Computer Interfaces.
+A front-end-only interface developed to integrate the available rooms spread between 5 buildings across McMaster University in one central portal. Created in collaboration with 5 other developers.
 
 This interface can be viewed via its virtual deployment in the form of this [website link](https://room-booking-system-owengretzinger.vercel.app/). To quickly see most of the features and functionality and in case there are any issues with the website, we also created a [demo video](https://drive.google.com/file/d/1BEj6cD62W56Dv2XgZz4rUp1u2Ii62R5r/view).
 
